@@ -24,6 +24,7 @@ git 은 이러한 것을 파일 한개에서 히스토리(과거 기록/역사)�
 
 그렇게 되면 하단부에 이러한 창이 나오게 됩니다.  
 본인의 컴퓨터 이름, 종류, 사용자 명 등이 나오고 뒤에 $ 표시가 있고 그 뒤에 입력할수있게 됩니다.  
+![vscode_1_1](vscode_1_1.png)
 그리고 그곳에 git이라고 입력하고 Enter후 사진처럼 나오면 git이 설치 된 환경이고 그렇지 않다면 설치과정을 거쳐야 합니다.  
 
 ![vscode_2](vscode_2.png)
@@ -43,3 +44,5 @@ $ brew install git
 $ git --version
 git version 2.21.0 (Apple Git-122.2)
 ```
+
+[git 초반 설정](git-config.md)
