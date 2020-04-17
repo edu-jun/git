@@ -98,4 +98,6 @@ $ git status
 $ git log
 ```
 
-[github](github.md)
+[이전으로](git-vscode-kraken.md)  
+[다음으로](github.md)  
+[README.md 로 이동](../README.md)  

@@ -46,4 +46,5 @@ $ git --version
 git version 2.21.0 (Apple Git-122.2)
 ```
 [window 깃 설정](../window.md)  
-[git 초반 설정](git-config.md)
+[다음으로](git-config.md)  
+[README.md 로 이동](../README.md)
