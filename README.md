@@ -5,3 +5,6 @@
 2. [깃 기초](md-png/git-config.md)   
 3. [github](md-png/github.md)  
 4. [깃 사용](md-png/add-commit-push.md)  
+5. [gitkraken](kraken/kraken.md)
+
+[윈도우](window.md)

@@ -63,4 +63,4 @@ unstaged file 의 readme.md 파일을 선택해보세요.
 이렇게 gitkraken을 확인하면 명령어의 실수 없이 GUI 환경에서 버튼클릭과 커밋 메시지 작성만으로 깃을 사용할수 있습니다.  
 git을 테스트 할 수 있는 repo를 만들거나 현재 있는 repo를 활용하여서 git - github - gitkraken 에 적응해보세요.  
 
-
+[README.md 로 이동](../README.md)
