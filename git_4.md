@@ -15,7 +15,7 @@ git과 github을 처음으로 사용해봅니다.
 ```
 아래의 화면처럼 파일에 내용을 입력합니다. (사실 입력하는 내용은 자유입니다.)
 
-![add](add.png)
+![add](image/add.png)
 
 사진처럼 내용을 입력후 저장하면 왼쪽 파일트리에서 M 이 표시되고 글씨에 색도 입혀지는것을 알수 있습니다.  
 이 상태는 Modified 된 상태 한마디로 수정 상태입니다.  
@@ -59,15 +59,16 @@ To https://github.com/hufsglobal/my_firist_reop.git
 ## 처음에 git push origin -u master 를 입력하였다면 그다음부터는 git push 로 단축하여 사용할 수 있습니다. 
 
 ```
-![push](push.png)
+![push](image/push.png)
 
 이렇게 처음 init - add - commit - remote - push 의 과정을 거쳤다면 이후부터는  
 add - commit - push 의 3가지의 단계를 통해서 나의 파일을 관리할 수 있습니다.  
   
 그리고 github repo의 화면에서 N(숫자) commit 라고 적혀있는 빨간색 부분을 클릭하면 지금까지의 커밋한 내용들을 모두 확인할 수 있습니다.  
 그리고 각 각의 커밋(저장 내역)에서 어떠한 변경사항이 생겼는지도 확인할 수 있습니다. 
-![commit_1](commit_1.png)
-![commit_2](commit_2.png)
+![commit_1](image/commit_1.png)
+![commit_2](image/commit_2.png)
 
-[이전으로](github.md)  
-[README.md 로 이동](../README.md)  
+[이전으로](git_3.md)  
+[다음으로](git_4.md) 
+[README.md 로 이동](README.md)  

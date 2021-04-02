@@ -1,33 +1,33 @@
-git-vscode-gitkraken
+git 간단 설치
 =
 
 ### Start !
 
 시작은 VSCODE 와 github.com 이 켜진 상태로 시작하겠습니다. 
 아래와 같이 두 창을 띄워둔 상태로 다음으로 넘어가주세요
-![github](github.png)
-![vscode](vscode.png)
+![github](image/github.png)
+![vscode](image/vscode.png)
 
 ### git 이란?
 [git_위키피디아](https://ko.wikipedia.org/wiki/%EA%B9%83_(%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4))  
 git의 가장 중요한 키워드는 버전 관리 시스템이라고 할 수 있습니다.  
 만약 우리가 어떠한 문서작업을 할때 이전에 작성하였던 문서로 돌아기기 위해서는 아래의 사진과 같이 '다른이름으로 저장하기'기능을 사용하여서 여러가지의 파일을 만들게 되고 용량도 많이 차지하고 혼동을 줄수있는 결과를 가져올 수 있습니다.  
 
-![버전관리](version.png)  
+![버전관리](image/version.png)  
 
 git 은 이러한 것을 파일 한개에서 히스토리(과거 기록/역사)를 남겨두어서 이전에 작성/저장하였던 버전으로 돌아갈수있고, 분기점을 만들어서 여러가지로 방법으로 문서를 편집하여서 비교하고 최종 선택을 통해서 한가지의 버전만 남기고 다른것들을 삭제하는것도 가능합니다.  
 
 그렇다면 지금부터 git을 직접 사용하면서 알아보겠습니다.  
 먼저 본인의 컴퓨터에 git을 설치해주어야 합니다. 우선 vscode의 상단부의 terminal 메뉴에서 new terminal을 선택하여서 terminal을 열어주세요.  
 
-![vscode_1](vscode_1.png)
+![vscode_1](image/vscode_1.png)
 
 그렇게 되면 하단부에 이러한 창이 나오게 됩니다.  
 본인의 컴퓨터 이름, 종류, 사용자 명 등이 나오고 뒤에 $ 표시가 있고 그 뒤에 입력할수있게 됩니다.  
-![vscode_1_1](vscode_1_1.png)  
+![vscode_1_1](image/vscode_1_1.png)  
 그리고 그곳에 git이라고 입력하고 Enter후 사진처럼 나오면 git이 설치 된 환경이고 그렇지 않다면 설치과정을 거쳐야 합니다.  
 
-![vscode_2](vscode_2.png)
+![vscode_2](image/vscode_2.png)
 
 
 ``` bash
@@ -45,6 +45,6 @@ $ brew install git
 $ git --version
 git version 2.21.0 (Apple Git-122.2)
 ```
-[window 깃 설정](../window.md)  
-[다음으로](git-config.md)  
-[README.md 로 이동](../README.md)
+[window 깃 설정](window.md)  
+[다음으로](git_2.md)  
+[README.md 로 이동](README.md)

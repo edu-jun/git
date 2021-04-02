@@ -13,18 +13,21 @@ $ git config --global user.email EMAIL
 이제 간단한 기본 세팅을 진행하였으니 처음으로 git을 사용해보겠습니다.  
 vscode 설정의 file > open 을 통해서 본인이 원하는 위치에 폴더를 새로 만들어서 열기를 통해서 해당 폴더로 들어오세요.  
 
-![vscode_3](vscode_3.png)
+![vscode_3](image/vscode_3.png)
 
-다시한번 사라진 terminal을 켜주시고 `pwd`를 입력하면 현재의 파일위치가 나옵니다. 
+상단부 터미널메뉴를 선택하여 다시한번 사라진 terminal을 켜거나 단축키 control + shift + \` 입력  
 ``` bash
+# pwd`를 입력하면 현재의 파일위치가 나옵니다. 
 $ pwd
 /Users/leesj/Desktop/for8th
-
+```
+본격적으로 깃을 사용해본다. 깃의 기본적인 명령어를 소개합니다.  
+``` bash
 ## init을 통해서 git을 초기화(initialize) 합니다. 
 $ git init
 Initialized empty Git repository in /Users/leesj/Desktop/for8th/.git/
 
-## .md 파일(markdown 확장자)을 한개 만듭니다.
+## .md 파일(markdown 확장자)을 한개 만듭니다. touch 파일명 으로 파일을 만들수 있습니다. 이는 리눅스 명령어입니다. 
 ### 파일이 만들어지면 왼쪽에 파일이 만들어지고 이름에 초록색이 보이며 U 표시가 나타납니다. 
 $ touch README.md
 
@@ -98,6 +101,6 @@ $ git status
 $ git log
 ```
 
-[이전으로](git-vscode-kraken.md)  
-[다음으로](github.md)  
-[README.md 로 이동](../README.md)  
+[이전으로](git_1_.md)  
+[다음으로](git_3.md)  
+[README.md 로 이동](README.md)  
