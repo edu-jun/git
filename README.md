@@ -22,4 +22,4 @@ gitkraken : https://www.gitkraken.com
 [윈도우](window.md)  
 
 
-[Update]내용 3차 보충 - 파일트리 변경 및 git_6 작업 준비  
+[Update]내용 3차 보충 - git_6 작업 60% 진행중, 이미지 추가 필요
