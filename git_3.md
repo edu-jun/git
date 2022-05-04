@@ -37,6 +37,6 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 성공적으로 우리가 만들었던 README.md 파일이 github에 업로드하였습니다.  
 ![github_3](image/github_3.png)
 
-[이전으로](git_2_.md)   
-[다음으로](add_4_.md)  
+[이전으로](git_2.md)   
+[다음으로](git_4.md)  
 [README.md 로 이동](README.md)  
